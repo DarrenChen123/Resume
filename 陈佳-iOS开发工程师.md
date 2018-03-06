@@ -1,6 +1,6 @@
 # 联系方式
 - 手机：15828078850
-- Email：chenjia2432@icloud.com 
+- Email：chenjia2432@gmail.com 
 - 微信号：chenjia2432
 
 ---

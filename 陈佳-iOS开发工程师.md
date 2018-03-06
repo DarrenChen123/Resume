@@ -80,7 +80,7 @@ Harman Kardon Controller 是在手机端控制  Harman Kardon 音箱的 app。�
 测试 OPPO 基于高通/MTK 的不同系列手机项目。
 
 ---
-## 技术文章
+# 技术文章
 
 - [(Swift之路) 从这里开始(翻译)](http://www.swift.gg/2017/04/21/what-to-learn-first/)
 - [Swift：如何优雅地使用 print()（一）(翻译)](http://www.swift.gg/2016/08/03/swift-prettify-your-print-statements-pt-1/) 

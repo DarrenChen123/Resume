@@ -1,6 +1,6 @@
 # 联系方式
 - 手机：15828078850
-- Email：chenjia2432@icloud.com 
+- Email：chenjia2432@gmail.com 
 - 微信号：chenjia2432
 
 ---
@@ -71,7 +71,7 @@ Harman Kardon Controller 是在手机端控制  Harman Kardon 音箱的 app。�
 * 实现国际化;
 * 多 target 开发;
 * 使用  AVPlayer 实现音频播放器;
-* 使用 FireCast 协议与音箱间进行通信。
+* 使用 FireCast 与音箱间进行通信。
 
 ## OPPO  N1/U3/Find7/R829/R8007/R6007 (测试工程师)
 ### 项目时间： 
@@ -80,7 +80,7 @@ Harman Kardon Controller 是在手机端控制  Harman Kardon 音箱的 app。�
 测试 OPPO 基于高通/MTK 的不同系列手机项目。
 
 ---
-## 技术文章
+# 技术文章
 
 - [(Swift之路) 从这里开始(翻译)](http://www.swift.gg/2017/04/21/what-to-learn-first/)
 - [Swift：如何优雅地使用 print()（一）(翻译)](http://www.swift.gg/2016/08/03/swift-prettify-your-print-statements-pt-1/) 
